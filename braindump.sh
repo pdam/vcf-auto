@@ -1,7 +1,5 @@
 #!/bin/bash
-# Author: William Lam
-# Site: www.virtuallyghetto.com
-# Reference: http://www.virtuallyghetto.com/2015/01/ultimate-automation-guide-to-deploying-vcsa-6-0-part-4-vcenter-server-management-node.html
+# Author: Pratik Dam
 
 OVFTOOL="/Volumes/Storage/Images/Beta/VMware-VCSA-all-6.0.0-2497477/vcsa-cli-installer/mac/VMware OVF Tool/ovftool"
 VCSA_OVA=/Volumes/Storage/Images/Beta/VMware-VCSA-all-6.0.0-2497477/vcsa/vmware-vcsa
